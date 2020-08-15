@@ -2,7 +2,7 @@
 
 ## Description
 This project is to do list apps. Built with React-redux and using library react-beautiful-dnd.
-![Apps preview](/src/ss.png)
+![Apps preview](/ss.png)
 
 ## Features
 ● Add, delete, and edit cards
